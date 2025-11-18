@@ -1,0 +1,592 @@
+
+.mango{ color:red; font-size:30px; }
+.orange{ color:green; font-size:25px; text-indent: 30px;}
+.banana{ color:blue; font-size:20px;}
+.apple{ color:#8000ff; font-size:20px;}
+
+/*------sticky header for freez-------*/
+.top-container {
+  background-color: #f1f1f1;
+  padding: 0px;
+  text-align: center;
+}
+.sticky_header {
+  position: sticky;
+  top: 0;
+  border-radius: 7px;
+  padding: .009px 10px;
+  background: #31dd53;
+  color: #670e0e;
+}
+.content {
+  padding: 16px;
+}
+
+/*------myInput-------*/
+#myInput {
+  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  border-radius: 5px; /* Radius border */
+  margin-bottom: 12px; /* Add some space below the input */
+  position: sticky;
+  top: 0;
+  background: #eef1ef;
+  color: #670e0e;
+ }
+
+#myUL {
+  /* Remove default list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 2px solid green; /* Add a border to all links */
+  border-radius: 10px;
+  margin-bottom:2px; /* Prevent double borders */
+  background-color: powderblue; /* Grey background color */
+  padding: 10px; /* Add some padding */
+  text-decoration: none; /* Remove default text underline */
+  font-size: 14px; /* Increase the font-size */
+  color: black; /* Add a black text color */
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee; /* Add a hover effect to all links, except for headers */
+}
+
+/*------square-------*/
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
+
+
+/*------circle-------*/
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+  border-radius: 50%;
+}
+
+/*------oval-------*/
+.oval {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  border-radius: 50%;
+}
+
+/*------trapezoid-------*/
+.trapezoid {
+	border-bottom: 50px solid #555;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
+	
+/*------rectangle-------*/	
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
+
+/*------parallelogram-------*/
+.parallelogram {
+	width: 100px;
+	height: 50px;
+	transform: skew(20deg);
+	background: #555;
+}
+
+/*------triangle-up-------*/
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #555;
+}
+
+/*------triangle-down-------*/
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #555;
+}
+
+	
+/*------triangle-left-------*/	
+.triangle-left {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-right: 50px solid #555;
+	border-bottom: 25px solid transparent;		
+}
+	
+/*------triangle-right-------*/		
+.triangle-right {
+	width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #555;
+	border-bottom: 25px solid transparent;	
+}
+
+/*------button-------*/	
+#button{
+    width: 100%;
+    border: 1px solid green;
+    background: #ffe;
+	margin-bottom:2px;
+    border-radius: 10px;
+}
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+/*------------------------*/
+
+
+
+
+p 
+{
+  font-size: 0.875em; /* 35px/16=0.875em */
+}
+/*------------------------*/
+
+.dropbtn 
+{
+  background-color: white;
+  color: green;
+  padding: 0px;
+  border: none;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 0px 0px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: white;}
+/*------------------------*/
+
+
+/*--hide-----------------*/
+.hide 
+{
+  display: none;
+} 
+#more {display: none;}
+
+
+
+/*---Hover-----------------*/  
+.myDIV:hover + .hide 
+{
+  display: block;
+  color: blue;
+}
+/*--------------------*/ 
+
+
+
+
+
+/*------------Person-------------*/
+.person {
+	border: 1px solid black;
+	padding: 10px;
+	min-width: 150px;
+	background-color: #FFFFFF;
+	display: inline-block;
+}
+
+.person.female {
+	border-color: #456990;
+}
+
+.person.male {
+	border-color: #456990;
+}
+
+.person div {
+	text-align: center;
+}
+
+.person .name {
+	font-size: 16px;
+}
+
+
+
+
+/*---------Tree---------*/
+.tree ul {
+	padding-top: 20px;
+	position: relative;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+
+.tree li {
+	display: table-cell;
+	text-align: center;
+	list-style-type: none;
+	position: relative;
+	padding: 20px 5px 0 5px;
+	transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+}
+
+
+
+/*We will use ::before and ::after to draw the connectors*/
+.tree li::before, .tree li::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 50%;
+	border-top: 1px solid black;
+	width: 50%;
+	height: 20px;
+}
+
+.tree li::after {
+	right: auto;
+	left: 50%;
+	border-left: 1px solid black;
+}
+
+/*We need to remove left-right connectors from elements without 
+any siblings*/
+.tree li:only-child::after, .tree li:only-child::before {
+	display: none;
+}
+
+/*Remove space from the top of single children*/
+.tree li:only-child {
+	padding-top: 0;
+}
+
+/*Remove left connector from first child and 
+right connector from last child*/
+.tree li:first-child::before, .tree li:last-child::after {
+	border: 0 none;
+}
+/*Adding back the vertical connector to the last nodes*/
+.tree li:last-child::before {
+	border-right: 1px solid black;
+	border-radius: 0 5px 0 0;
+	-webkit-border-radius: 0 5px 0 0;
+	-moz-border-radius: 0 5px 0 0;
+}
+
+.tree li:first-child::after {
+	border-radius: 5px 0 0 0;
+	-webkit-border-radius: 5px 0 0 0;
+	-moz-border-radius: 5px 0 0 0;
+}
+
+/*Time to add downward connectors from parents*/
+.tree ul ul::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 50%;
+	border-left: 1px solid black;
+	width: 0;
+	height: 20px;
+}
+/*---tree end-----------------*/ 
+
+
+/*---table-1-----------------*/ 
+table.t01
+{
+  width: 100%;    
+  background-color: #f1f1c1;
+  font-size: 15px;
+  text-align:left;
+  border-collapse: collapse;
+  border: 1px solid #1C6EA4;
+}
+table.t01 th, table.t01 td 
+{
+  border: 1px solid black;
+  padding: 5px 2px;
+}
+table.t01 th, table.t01 td 
+{
+  background-color: #f1f1c1;
+  text-align: left;
+  padding: 5px;
+}
+/*---table-1 end-----------------*/ 
+
+/*---table ma-----------------*/ 
+.table7 
+{
+  width: 100%;    
+  background-color: white;
+  text-align:center;
+  border-collapse: collapse;
+  border: 0px solid white;
+}
+table.ma  th, table.ma  td 
+{
+  border: 0px solid white;
+  padding: 3px 2px;
+}
+table.ma  th, table.ma  td 
+{
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+}
+/*--------------------*/ 
+
+/*---table-2-----------------*/ 
+table.t02 
+{
+  border: 2px solid white;
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.t02 td, table.t02 th 
+{
+  border: 1px solid white;
+  padding: 3px 2px;
+}
+table.t02 tbody td 
+{
+  font-size: auto;
+}
+table.t02 tr:nth-child(even) 
+{
+  background: white;
+}
+table.t02 thead 
+{
+  background: white;
+  border-bottom: 1px solid white;
+}
+table.t02 thead th 
+{
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  border-left: 1px white;
+}
+table.t02 thead th:first-child
+{
+  border-left: none;
+}
+/*--------------------*/ 
+
+/*---table-3-----------------*/ 
+table.t03
+ {
+background-color: white;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+table.t03 th, table.t03 td
+ {
+  padding: 10px 15px;
+}
+table.t03 thead 
+{
+  background: white;
+  color: #000000;
+}
+table.t03 th 
+{
+  font-weight: bold;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+  text-align: left;
+}
+table.t03 tbody tr:nth-child(even) 
+{
+  background: white;
+}
+table.t03 td 
+{
+  border-bottom: 1px solid #000000;
+  border-right: 1px solid #000000;
+}
+table.t03 td:first-child 
+{
+  border-left: 1px solid #000000;
+} 
+/*--------------------*/ 
+
+/*---table-4-----------------*/ 
+table.t04 
+{
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.t04 td, table.t04 th 
+{
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table.t04 tbody td 
+{
+  font-size: 20px;
+}
+table.t04 tr:nth-child(even) 
+{
+  background: #D0E4F5;
+}
+table.t04 thead 
+{
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.t04 thead th 
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table.t04 thead th:first-child 
+{
+  border-left: none;
+}
+
+table.t04 tfoot 
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.t04 tfoot td 
+{
+  font-size: 20px;
+}
+table.t04 tfoot .links {
+  text-align: right;
+}
+table.t04 tfoot .links a
+{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+/*--------------------*/ 
+
+/*---table-5-----------------*/ 
+table.t05 
+{
+  width: 100%;    
+  background-color: auto;
+  text-align:left;
+  border-collapse: collapse;
+  border: 1px solid auto;
+}
+table.t05 th, table.t05 td 
+{
+  border: 1px solid auto;
+  padding: 3px 2px;
+}
+table.t05 th, table.t05 td 
+{
+  background-color: auto;
+  text-align: left;
+  padding: 1px;
+}
+
+
+    .Table
+    {
+        display: table;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+    }
+    .Cell
+    {
+        display: table-cell;
+        border: solid;
+        border-width: thin;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+/*----------------------*/ 	
+
+
