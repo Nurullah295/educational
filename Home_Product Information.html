@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style-manual.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">   
+    <title>Product Information</title>
+</head>
+<body>
+    <div id="passwordForm"> <!-- পাসওয়ার্ড ফরম -->
+        <p style="color: blueviolet;">Please enter the password to access the content:</p>
+        <input type="password" id="passwordInput" placeholder="Enter password" style="border: 1px solid red; width: 200px; height: 35px;">
+        <button onclick="checkPassword()" style="height: 35px; background-color: aqua;">Submit</button>
+        <p id="errorMessage" style="color: red; display: none;">Incorrect password!</p>
+    </div> <!-- End পাসওয়ার্ড ফরম -->
+
+    <div id="protectedContent"><!-- password protected -->
+
+  <nav class="navbar">
+    <div class="left-section">Menu</div>
+    <div class="right-section">
+<div class="right-section">
+  <button id="themeToggle">🌞</button>
+  <button id="favToggle">⭐</button>
+  <button id="hamburger" class="hamburger">☰</button>
+</div>
+    </div>
+  </nav>
+  <div id="sidebar" class="sidebar hidden">
+
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search pages..." />
+      <span id="clearSearch">❌</span>
+    </div>
+    <div id="pagesList" class="pages-list"></div>
+  </div>
+      <div id="favoritePanel" class="favorite-panel hidden">
+  <h4>Favorites</h4>
+  <div id="favoriteLinks" class="pages-list"></div>
+</div>
+  <main style="text-align: center;">
+    <h3>Welcome to Product Information</h3>
+    <p style="font-size: 15px;">Select a page from the menu.</p>
+  </main>
+</div> <!-- password protected -->
+  <script src="js/pages-data.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
