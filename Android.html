@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style-manual.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="js/script.js"></script>
+</head>
+<body>
+	<div class="bodyDiv">
+    <div class="w3-container w3-center w3-animate-left">
+        <h2 class="mango">Android</h2>
+    </div>
+
+<h2>Android Core Building Blocks</h2>
+android components:<br>
+An android <b>component</b> is simply a piece of code that has a well defined life cycle e.g. Activity, Receiver, Service etc.<br>
+
+The <b>core building blocks</b> or <b>fundamental components</b> of android are activities, views, intents, services, content providers, fragments and AndroidManifest.xml.<br>
+
+<b>Activity:</b><br>
+An activity is a class that represents a single screen. It is like a Frame in AWT.
+
+<b>View:</b><br>
+A view is the UI element such as button, label, text field etc. Anything that you see is a view.
+<b>Intent:</b><br>
+Intent is used to invoke components. It is mainly used to:
+
+Start the service<br>
+Launch an activity<br>
+Display a web page<br>
+Display a list of contacts<br>
+Broadcast a message<br>
+Dial a phone call etc.<br>
+For example, you may write the following code to view the webpage.<br>
+
+Intent intent=new Intent(Intent.ACTION_VIEW);<br>
+intent.setData(Uri.parse("http://www.javatpoint.com"));<br>
+startActivity(intent);<br>
+
+<b>Service:</b><br>
+Service is a background process that can run for a long time.<br>
+
+There are two types of services local and remote. Local service is accessed from within the application whereas remote service is accessed remotely from other applications running on the same device.
+<br>
+<b>Content Provider:</b><br>
+Content Providers are used to share data between the applications.
+<br>
+<b>Fragment:</b><br>
+Fragments are like parts of activity. An activity can display one or more fragments on the screen at the same time.
+<br>
+<b>AndroidManifest.xml:</b><br>
+It contains informations about activities, content providers, permissions etc. It is like the web.xml file in Java EE.
+<br>
+<b>Android Virtual Device (AVD):</b><br>
+It is used to test the android application without the need for mobile or tablet etc. It can be created in different configurations to emulate different types of real devices.
+<br>
+<b class="HL">recyclerview</b><br>
+<li>recyclerview & cardview implementation</li>
+dependencies {<br>
+    implementation "androidx.recyclerview:recyclerview:1.4.0"<br>
+    // For control over item selection of both touch and mouse driven selection<br>
+    implementation "androidx.recyclerview:recyclerview-selection:1.1.0"<br>
+}<br>
+
+<b class="HL">Design</b><br>
+
+<b class="HL">Create viewholder for find</b><br>
+
+<b class="HL">in main activity send data save and save bya adapter</b><br>
+
+
+</div>
+<footer>
+    <p>© 2024 Md. Nurullah. All rights reserved.</p>
+</footer>  
+
+</body>
+</html>
