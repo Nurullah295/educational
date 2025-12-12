@@ -66,6 +66,7 @@ const pages = [
 {id:	64	,	name:	"Pregan",	url:	"Pregan.html"	},
 {id:	65	,	name:	"Prulicon",	url:	"Prulicon.html"	},
 {id:	66	,	name:	"Rabetac",	url:	"Rabetac.html"	},
+{id:	66	,	name:	"S-Fer",	url:	"S-Fer.html"	},    
 {id:	67	,	name:	"Sicmon",	url:	"Sicmon.html"	},
 {id:	68	,	name:	"Somalax",	url:	"Somalax.html"	},
 {id:	69	,	name:	"Steclo",	url:	"Steclo.html"	},
@@ -86,3 +87,4 @@ const pages = [
 
 
 ];
+
