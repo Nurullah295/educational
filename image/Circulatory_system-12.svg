@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="650"
+   height="650"
+   id="svg666">
+  <metadata
+     id="metadata104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs668" />
+  <path
+     d="m 158.51879,472.63444 -8.048,113.913 c 3.625,14.501 14.501,25.37599 31.592,26.41199 17.09,1.03701 26.412,-9.839 33.663,-18.643 l 7.531,-79.21399"
+     inkscape:connector-curvature="0"
+     id="inferior_vena_cava"
+     style="font-size:12px;fill:#9999ff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 89.24,266.65155 c 21.238,-0.351 155.63,8.159 215.943,6.599 60.313,-1.56 204.385,-19.11899 228.822,-15.99899 l 0.52,48.875 c -22.357,1.03999 -67.641,2.47999 -78.038,23.798 -14.559,33.79599 -90.471,-13.51801 -129.466,-12.47801 -43.673,1.148 -208.347,3.221 -237.261,-0.36099 -5.645,-5.43801 -12.613,-11.40801 -11.959,-25.47701 0.148,-16.105 5.719,-20.277 11.439,-24.957 z"
+     inkscape:connector-curvature="0"
+     id="pulmonary_vein_2"
+     style="font-size:12px;fill:#ffcc99;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 458.63568,307.21309 c 9.84,1.035 54.379,83.381 51.789,149.67101 -2.589,66.291 -16.055,108.758 -37.288,102.02499 -21.234,-6.73199 -73.542,-102.542 -100.99,-132.57999 -27.448,-30.03801 -64.219,-67.84501 -64.219,-67.84501 l 150.708,-51.271 z"
+     inkscape:connector-curvature="0"
+     id="left_ventricle"
+     style="font-size:12px;fill:#7f7fe6;fill-rule:evenodd;stroke:#000000;stroke-width:1.25" />
+  <path
+     d="m 104.80168,206.01809 c 21.238,-0.351 160.866,11.07901 221.179,9.519 60.313,-1.56 162.222,-14.559 186.659,-11.43899 l 0.52,48.87499 c -22.357,1.04 -52.515,-2.6 -62.912,18.718 -14.559,33.796 -90.471,-13.518 -129.466,-12.47799 -43.673,1.14799 -186.546,0.82099 -215.46,-2.76101 -5.645,-6.478 -12.093,-9.32799 -11.959,-25.477 -0.386,-16.101 6.239,-19.237 11.439,-24.957 z"
+     inkscape:connector-curvature="0"
+     id="pulmonary_vein_1"
+     style="font-size:12px;fill:#ffcc99;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 318.80468,266.29809 c 7.658,-40.845 77.365,-46.265 102.024,-31.072 33.345,20.543 52.308,82.344 52.308,82.344 0,0 -21.894,-2.688 -33.145,13.466 -8.948,12.84801 -9.84,42.467 -9.84,42.467 0,0 -7.251,-29.002 -22.788,-34.181 -15.536,-5.179 -28.484,0.518 -39.36,4.143 -10.358,-9.322 -53.97,-51.722 -49.199,-77.167 z"
+     inkscape:connector-curvature="0"
+     id="left_atrium"
+     style="font-size:12px;fill:#b3b3ff;fill-rule:evenodd;stroke-width:1pt" />
+  <path
+     d="m 303.78568,360.03809 c 40.395,25.37701 63.182,65.255 92.184,104.615 29.003,39.36 65.255,95.29201 54.379,105.13201 -10.875,9.83999 -93.424,5.435 -160.547,-17.608 -53.395,-18.315 -98.918,-63.70101 -98.918,-63.70101 l 112.902,-128.438 z"
+     inkscape:connector-curvature="0"
+     id="right_ventricle"
+     style="font-size:12px;fill:#7f7fe6;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 166.02468,246.10109 c 0.518,15.537 -26.883,124.34001 -23.823,153.297 6.733,64.21901 59.04,105.651 68.362,110.83 2.072,-6.733 3.108,-39.361 21.752,-48.165 18.644,-8.804 41.949,4.143 41.949,4.143 0,0 -15.018,-19.161 -15.018,-36.253 0,-17.089 13.464,-30.03699 19.161,-35.734 1.036,-13.983 4.143,-57.486 -6.733,-88.56 -10.875,-31.074 -43.502,-68.88 -43.502,-68.88 l -62.148,9.322 z"
+     inkscape:connector-curvature="0"
+     id="right_atrium"
+     style="font-size:12px;fill:#b3b3ff;fill-rule:evenodd;stroke-width:1pt" />
+  <path
+     d="m 245.7808,164.27396 c -33.145,-1.036 -118.458,-11.945 -136.229,-13.981 -6.413,2.052 -12.239,9.102 -12.479,22.793 -0.188,11.149 6.586,16.062 12.479,20.714 0,0 103.601,11.905 135.193,16.048"
+     inkscape:connector-curvature="0"
+     id="pulmonary_artery_2"
+     style="font-size:12px;fill:#e5b3ff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 384.06468,348.67409 c -23.779,-40.369 -64.762,-55.642 -92.191,-125.36 -14.929,-38.676 20.869,-94.28599 60.076,-66.291 23.93,17.457 7.724,58.783 12.385,56.712 l 54.099,-4.62499 c 0,-5.17901 1.359,-13.24501 -11.588,-65.55201 -8.312,-32.916 -25.895,-35.73499 -21.752,-51.789991 4.143,-16.055 16.055,-31.073 16.055,-31.073 l -26.93,-20.716 c 0,0 -20.198,48.164 -28.485,47.128 -8.286,-1.036 4.144,-48.164 4.144,-48.164 l -37.289,-3.107 c 0,0 5.18,49.2 -5.696,56.969 -10.876,7.768001 -34.699,-49.201 -34.699,-49.201 l -28.485,17.091 c 0,0 20.198,23.822 15.537,45.574001 -4.661,21.752 -36.252,42.46799 -32.627,117.04499 2.793,57.05 49.183,97.184 66.809,120.15201 17.09,21.75099 55.867,67.19699 67.889,61.17399 -4.731,-23.903 3.471,-50.354 22.748,-55.966 z"
+     inkscape:connector-curvature="0"
+     id="aorta"
+     style="font-size:12px;fill:#ff7f7f;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 382.53658,342.82702 c 16.31707,13.14663 7.73008,27.17612 -3.98227,43.04463 -10.13269,13.72949 -25.70005,13.1494 -42.01585,0.004 -16.31454,-13.1446 -21.90361,-28.78806 -7.92711,-46.13514 12.99724,-16.13165 37.61196,-10.05686 53.92523,3.08671 z"
+     inkscape:connector-curvature="0"
+     id="path592"
+     style="font-size:12px;fill:#cc6666;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000095" />
+  <path
+     d="m 158.77468,250.76209 c 5.696,-18.644 -4.374,-182.660991 -4.374,-182.660991 0,0 6.215,-15.02 31.592,-13.984 25.376,1.036 30.038,17.609 30.038,17.609 l 13.177,173.338991"
+     inkscape:connector-curvature="0"
+     id="superior_vena_cava"
+     style="font-size:12px;fill:#9999ff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <ellipse
+     cx="250.87192"
+     cy="434.41135"
+     rx="31.456482"
+     ry="21.057648"
+     transform="matrix(1.049425,-0.353733,0.378566,1.123099,-231.7296,-145.1324)"
+     id="vena_cava_in_2"
+     style="font-size:12px;fill:#7f7fcc;fill-rule:evenodd;stroke:#000000;stroke-width:2.1821599" />
+  <path
+     d="m 339.43968,245.81709 4.44,-18.242 c 23.757,-11.901 49.026,-11.234 66.296,-5.079 53.134,19.666 58.447,76.218 73.988,90.374 68.684,64.06 81.761,252.13101 26.561,275.39801 -115.047,48.187 -308.531,-35.14701 -358.64,-118.11501 -52.91,-86.4 1.28,-142.785 6.784,-221.304 l 5.404,21.49201 c 1.548,83.45999 -20.531,62.19299 -7.425,143.37799 10.193,38.59 41.187,83.553 98.294,108.488 74.632,33.53901 171.107,48.78401 180.573,37.13401 9.465,-11.64901 -44.414,-53.88 -58.977,-88.10101 -14.562,-34.222 -14.562,-47.32799 -24.028,-57.521 -9.465,-10.194 -18.724,-25.692 -27.043,-32.972 l 0.002,-14.663 c 13.519,14.558 38.357,45.681 54.71,56.37201 19.658,12.37799 46.473,41.85699 56.792,65.52999 13.106,28.39701 30.581,60.43401 42.231,50.96901 11.65,-9.466 19.659,-50.24001 11.65,-88.10101 -4.948,-22.488 -21.641,-39.056 -27.67,-77.909 -6.552,-40.047 1.458,-56.793 -1.455,-67.715 -2.912,-10.921 -19.659,-51.696 -48.056,-66.258 -26.845,-12.39 -53.316,-3.34899 -74.431,6.845 z"
+     inkscape:connector-curvature="0"
+     id="heart"
+     style="font-size:12px;opacity:0.98999999;fill:#ff7fcc;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <path
+     d="m 335.89668,393.16795 c -13.554,-61.69 -5.182,-136.70999 22.266,-179.69399 27.449,-42.986 132.582,-31.074 132.582,-31.074 l 0,-36.771 c -19.68,-1.553 -76.748,-3.827 -113.418,6.733 -45.732,12.942 -64.738,-12.43 -82.346,23.305 -11.618,23.235 -3.625,42.468 -8.804,61.112 -5.179,18.644 -19.679,123.25899 -13.984,159.51099 20.262,-12.548 41.928,-17.75399 63.704,-3.122 z"
+     inkscape:connector-curvature="0"
+     id="pulmonary_artery_1"
+     style="font-size:12px;fill:#e5b3ff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5" />
+  <ellipse
+     cx="548.70959"
+     cy="341.55151"
+     rx="13.724213"
+     ry="19.938919"
+     transform="matrix(0.849057,0,0,0.935062,26.67174,-155.0983)"
+     id="path564"
+     style="font-size:12px;fill:#b37fe6;fill-rule:evenodd;stroke:#000000;stroke-width:2.80576992" />
+  <path
+     d="m 209.51368,492.14509 c -10.19,-2.778 -8.152,-26.807 16.118,-36.395 20.26,-8.523 32.236,-1.04 49.394,10.399 -16.118,-2.08 -24.801,-8.02699 -43.674,2.6 -17.398,10.315 -13.903,25.039 -21.838,23.396 z"
+     inkscape:connector-curvature="0"
+     id="tricuspid_valve_1"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linejoin:round" />
+  <path
+     d="m 276.52231,399.75115 c -4.5572,-9.52818 -26.91808,-2.2117 -27.7076,23.87162 -1.14748,21.94977 9.95337,30.67854 26.5331,42.94068 -7.42262,-14.45756 -17.00162,-22.68892 -13.40445,-44.0474 3.80384,-19.86505 18.56012,-13.35435 14.57895,-22.7649 z"
+     inkscape:connector-curvature="0"
+     id="tricuspid_valve_2"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000095;stroke-linejoin:round" />
+  <path
+     d="m 376.52183,337.47887 c -6.22324,-8.53336 7.4957,-12.60962 24.77601,-7.54743 15.59986,4.43557 25.17013,21.84031 30.26417,41.82277 -10.58458,-12.33219 -16.69566,-25.68207 -32.11212,-30.41542 -19.3893,-5.75985 -14.11475,9.08814 -22.92806,-3.85992 z"
+     inkscape:connector-curvature="0"
+     id="mitral_valve_1"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.49999952;stroke-linejoin:round" />
+  <path
+     d="m 464.11081,316.13971 c 1.16583,-10.49686 -13.32219,-9.25875 -25.64448,3.87471 -15.36738,15.71476 -11.05572,32.05655 -6.94223,52.26367 4.16,-15.71022 -0.48924,-30.97259 16.29836,-44.6589 9.3617,-8.05545 14.51025,-0.14587 16.28835,-11.47948 z"
+     inkscape:connector-curvature="0"
+     id="mitral_valve_2"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000215;stroke-linejoin:round" />
+  <path
+     d="m 335.33913,387.63735 c 0,20.9526 -10.71092,22.56186 -30.41601,23.39729 -17.04836,0.72351 -34.05612,-5.56422 -34.05612,-26.51683 0,-20.951 9.1796,-53.5528 31.45657,-53.5528 20.71613,0 33.01556,35.72134 33.01556,56.67234 z"
+     inkscape:connector-curvature="0"
+     id="path591"
+     style="font-size:12px;fill:#b37fe6;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000072" />
+  <path
+     d="m 270.36558,378.91616 c -1.98244,26.16192 16.25955,29.95621 22.18376,20.3615 4.56411,-8.09125 3.95217,-30.45811 -8.2394,-42.21284 3.04031,9.69683 4.0524,17.89024 -2.03335,22.42099 -7.4675,6.19564 -11.25526,-9.0531 -11.91101,-0.56965 z"
+     inkscape:connector-curvature="0"
+     id="pulmonary_valve_1"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000262;stroke-linejoin:round" />
+  <path
+     d="m 336.04572,391.91475 c 0.42248,6.92364 -8.46069,20.0771 -20.1046,10.48266 -7.03467,-6.06775 -5.51175,-32.01795 6.67982,-43.77268 -3.04031,9.69682 -3.01238,15.29075 1.51387,25.02032 4.3836,8.65672 11.54342,-0.23165 11.91091,8.2697 z"
+     inkscape:connector-curvature="0"
+     id="pulmonary_valve_2"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000262;stroke-linejoin:round" />
+  <path
+     d="m 348.71838,390.81323 c 12.99597,17.86844 29.22056,7.41394 25.70867,-3.30152 -3.24006,-8.70641 -20.72829,-22.66394 -37.57447,-20.92772 9.37148,3.9303 19.40545,8.96122 18.94308,16.53423 -0.0811,9.70273 -12.21002,0.90949 -7.07728,7.69501 z"
+     inkscape:connector-curvature="0"
+     id="aortic_valve_1"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.5000031;stroke-linejoin:round" />
+  <path
+     d="m 390.09327,346.40211 c 7.64347,4.14241 9.8875,18.37425 -4.95451,21.08514 -9.1741,1.46286 -24.3848,-14.87735 -25.50541,-31.77564 5.44986,8.57736 7.14322,11.64369 17.49807,14.45952 9.44293,2.23292 5.60607,-8.04703 12.96185,-3.76902 z"
+     inkscape:connector-curvature="0"
+     id="aortic_valve_2"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.50000286;stroke-linejoin:round" />
+  <ellipse
+     cx="250.87192"
+     cy="434.41135"
+     rx="31.456482"
+     ry="21.057648"
+     transform="matrix(0.717389,-0.744054,0.95079,0.71512,-389.4122,251.6769)"
+     id="vena_cava_in_1"
+     style="font-size:12px;fill:#7f7fcc;fill-rule:evenodd;stroke:#000000;stroke-width:2.26296997" />
+  <ellipse
+     cx="382.15723"
+     cy="216.81569"
+     rx="20.277725"
+     ry="12.478638"
+     transform="matrix(0.945601,0.07752258,-0.06628828,0.83062,-15.8154,-174.0802)"
+     id="path597"
+     style="font-size:12px;fill:#cc6666;fill-rule:evenodd;stroke:#000000;stroke-width:2.81170011" />
+  <ellipse
+     cx="382.15723"
+     cy="216.81569"
+     rx="20.277725"
+     ry="12.478638"
+     transform="matrix(0.732703,0.515286,-0.464454,0.626108,210.8872,-285.0745)"
+     id="path598"
+     style="font-size:12px;fill:#cc6666;fill-rule:evenodd;stroke:#000000;stroke-width:2.99218011" />
+  <ellipse
+     cx="382.15723"
+     cy="216.81569"
+     rx="20.277725"
+     ry="12.478638"
+     transform="matrix(0.740708,-0.430883,0.327749,0.711617,-97.03948,61.35079)"
+     id="path599"
+     style="font-size:12px;fill:#cc6666;fill-rule:evenodd;stroke:#000000;stroke-width:3.05806994" />
+  <ellipse
+     cx="571.41608"
+     cy="405.03461"
+     rx="15.078308"
+     ry="25.477158"
+     transform="matrix(1,0,0,0.969388,-57.73647,-164.3603)"
+     id="path602"
+     style="font-size:12px;fill:#e69966;fill-rule:evenodd;stroke:#000000;stroke-width:2.53917003" />
+  <ellipse
+     cx="571.41608"
+     cy="405.03461"
+     rx="15.078308"
+     ry="25.477158"
+     transform="matrix(1,0,0,0.969388,-38.61092,-110.6071)"
+     id="path603"
+     style="font-size:12px;fill:#e69966;fill-rule:evenodd;stroke:#000000;stroke-width:2.53917003" />
+  <ellipse
+     cx="571.41608"
+     cy="405.03461"
+     rx="15.078308"
+     ry="25.477158"
+     transform="matrix(1.145182,1.541563,-0.876179,0.146717,112.3589,-671.4702)"
+     id="path604"
+     style="font-size:12px;fill:#e69966;fill-rule:evenodd;stroke:#000000;stroke-width:2.02863002" />
+  <text
+     x="178.35744"
+     y="27.512592"
+     id="text680"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       x="178.35744"
+       y="27.512592"
+       id="tspan697">Superior</tspan>
+    <tspan
+       x="178.35744"
+       y="47.512596"
+       id="tspan699">Vena Cava</tspan>
+  </text>
+  <text
+     x="321.78427"
+     y="127.65681"
+     id="text704"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan705">Aorta</tspan>
+  </text>
+  <text
+     x="539.0462"
+     y="136.14337"
+     id="text707"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan708">Pulmonary</tspan>
+    <tspan
+       x="539.0462"
+       y="156.14337"
+       id="tspan712">Artery</tspan>
+  </text>
+  <text
+     x="578.93402"
+     y="214.22192"
+     id="text714"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan715">Pulmonary</tspan>
+    <tspan
+       x="578.93402"
+       y="234.22192"
+       id="tspan717">Vein</tspan>
+  </text>
+  <text
+     x="322.6329"
+     y="482.40472"
+     id="text719"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan720">Right</tspan>
+    <tspan
+       x="322.6329"
+       y="502.40472"
+       id="tspan722">Ventricle</tspan>
+  </text>
+  <text
+     x="446.9519"
+     y="428.06409"
+     id="text724"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan725">Left</tspan>
+    <tspan
+       x="446.9519"
+       y="448.06409"
+       id="tspan727">Ventricle</tspan>
+  </text>
+  <text
+     x="208.06119"
+     y="310.12277"
+     id="text729"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan730">Right</tspan>
+    <tspan
+       x="208.06119"
+       y="330.12277"
+       id="tspan732">Atrium</tspan>
+  </text>
+  <text
+     x="365.76999"
+     y="274.93268"
+     id="text734"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1.25;stroke-dashoffset:0;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan735"
+       style="stroke-dashoffset:0">Left</tspan>
+    <tspan
+       x="365.76999"
+       y="294.93268"
+       id="tspan737"
+       style="stroke-dashoffset:0">Atrium</tspan>
+  </text>
+  <text
+     x="185.14688"
+     y="636.86438"
+     id="text739"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan740">Inferior Vena Cava</tspan>
+  </text>
+  <text
+     x="605.90363"
+     y="325.04016"
+     id="text742"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan743">Mitral</tspan>
+    <tspan
+       x="605.90363"
+       y="345.04016"
+       id="tspan745">Valve</tspan>
+  </text>
+  <text
+     x="606.75226"
+     y="426.0257"
+     id="text747"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan748">Aortic</tspan>
+    <tspan
+       x="606.75226"
+       y="446.0257"
+       id="tspan750">Valve</tspan>
+  </text>
+  <text
+     x="74.81855"
+     y="497.68091"
+     id="text752"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan753">Tricuspid</tspan>
+    <tspan
+       x="74.81855"
+       y="517.68097"
+       id="tspan755">Valve</tspan>
+  </text>
+  <text
+     x="66.331741"
+     y="428.93787"
+     id="text757"
+     style="font-size:20px;font-weight:normal;text-anchor:middle;stroke-width:1pt;font-family:Nimbus Sans L">
+    <tspan
+       id="tspan758">Pulmonary</tspan>
+    <tspan
+       x="66.331741"
+       y="448.93787"
+       id="tspan760">Valve</tspan>
+  </text>
+  <path
+     d="m 571.75068,328.18609 -151.52,1.456"
+     inkscape:connector-curvature="0"
+     id="path764"
+     style="font-size:12px;fill:none;stroke:#000000;stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+  <path
+     d="m 578.55768,415.41109 -210.945,-45.88"
+     inkscape:connector-curvature="0"
+     id="path765"
+     style="font-size:12px;fill:none;stroke:#000000;stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+  <path
+     d="m 184.10468,132.71109 2.7,38.406 -6.001,0.6 10.802,14.103 6.001,-16.503 -5.701,0.6 -3.3,-37.80699 -4.501,0.60099 z"
+     inkscape:connector-curvature="0"
+     id="path766"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 181.7172,581.77863 5.08297,-38.16379 5.99899,0.61974 -7.74338,-15.98805 -9.19887,14.958 5.70513,0.55939 -4.37471,37.69778 4.52987,0.31693 z"
+     inkscape:connector-curvature="0"
+     id="path767"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 306.5395,284.12543 5.08297,-38.16378 5.99899,0.61973 -7.74338,-15.98804 -9.19887,14.95799 5.70513,0.5594 -4.37471,37.69776 4.52987,0.31694 z"
+     inkscape:connector-curvature="0"
+     id="path768"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 212.91816,402.95396 20.58773,32.53394 -4.99902,3.37371 16.19758,7.29498 -2.54153,-17.37534 -4.73489,3.23144 -20.83198,-31.72207 -3.67789,2.66334 z"
+     inkscape:connector-curvature="0"
+     id="path769"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 107.91668,438.27309 195.197,-56.013"
+     inkscape:connector-curvature="0"
+     id="path762"
+     style="font-size:12px;fill:none;stroke:#000000;stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+  <path
+     d="m 410.38309,280.03506 4.93962,38.18259 -5.95568,0.94964 11.60764,13.4477 5.0264,-16.82547 -5.6562,0.93211 -5.50359,-37.54956 -4.45819,0.86299 z"
+     inkscape:connector-curvature="0"
+     id="path770"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 122.34468,486.64809 121.361,-44.131"
+     inkscape:connector-curvature="0"
+     id="path763"
+     style="font-size:12px;fill:none;stroke:#000000;stroke-width:2.5;stroke-dasharray:2.5, 2.5;stroke-dashoffset:0" />
+  <path
+     d="m 495.16379,223.07063 -38.19428,4.84847 -0.93542,-5.95793 -13.47537,11.57551 16.81343,5.06656 -0.91861,-5.65842 37.5626,-5.41395 -0.85235,-4.46024 z"
+     inkscape:connector-curvature="0"
+     id="path771"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 100.53825,231.94012 38.4195,2.50107 -0.2143,6.02712 15.43024,-8.8026 -15.5436,-8.17057 -0.17387,5.72987 -37.90683,-1.82583 -0.0111,4.54094 z"
+     inkscape:connector-curvature="0"
+     id="path772"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 87.33585,293.15113 38.4195,2.50107 -0.2143,6.02711 15.43024,-8.8026 -15.5436,-8.17057 -0.17387,5.72987 -37.90683,-1.82582 -0.01114,4.54094 z"
+     inkscape:connector-curvature="0"
+     id="path773"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 528.53936,277.37065 -38.40895,2.65797 -0.59344,-6.00165 -14.11482,10.78657 16.49644,6.01905 -0.59376,-5.70165 37.81061,-3.25862 -0.59608,-4.50167 z"
+     inkscape:connector-curvature="0"
+     id="path774"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 306.06741,444.4045 -0.25602,-38.49994 6.02699,-0.21777 -9.88476,-14.76038 -7.03672,16.08866 5.72759,-0.23681 0.89285,37.94023 4.53007,-0.31399 z"
+     inkscape:connector-curvature="0"
+     id="path775"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 418.67047,403.50673 -31.45688,-22.19858 3.3306,-5.02784 -17.75593,-0.55226 8.98786,15.08575 3.14085,-4.79547 31.37236,21.35498 2.38114,-3.86658 z"
+     inkscape:connector-curvature="0"
+     id="path776"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 266.07196,234.50247 -6.25023,-37.99006 5.91949,-1.15395 -12.06339,-13.04043 -4.44461,16.98843 5.62079,-1.12614 6.79209,37.338 4.42586,-1.01585 z"
+     inkscape:connector-curvature="0"
+     id="path777"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 411.20498,168.61927 38.47912,-1.2927 0.37998,6.01895 14.48888,-10.27865 -16.27235,-6.60093 0.39097,5.71913 -37.90248,1.91422 0.43588,4.51998 z"
+     inkscape:connector-curvature="0"
+     id="path867"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 155.28814,176.08728 -38.13139,-5.32044 0.65708,-5.99502 -16.03595,7.64369 14.90045,9.29182 0.59488,-5.70155 37.66979,4.60931 0.34514,-4.52781 z"
+     inkscape:connector-curvature="0"
+     id="path868"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 291.48991,109.48446 -17.55969,-34.263217 5.28376,-2.907554 -15.4711,-8.73057 0.95902,17.534004 5.00784,-2.789788 17.8764,33.476765 3.90377,-2.31964 z"
+     inkscape:connector-curvature="0"
+     id="path869"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 359.68914,106.86671 19.08478,-33.437739 5.32362,2.833903 -1.15029,-17.727228 -14.1559,10.390936 5.07415,2.667288 -18.25315,33.27285 4.07679,1.99999 z"
+     inkscape:connector-curvature="0"
+     id="path870"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+  <path
+     d="m 331.04519,103.56176 0.54069,-38.497008 6.03021,-0.093 -9.57721,-14.961786 -7.36814,15.939628 5.73127,-0.118243 0.10757,37.950613 4.53561,-0.2202 z"
+     inkscape:connector-curvature="0"
+     id="path871"
+     style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:1.25" />
+</svg>
