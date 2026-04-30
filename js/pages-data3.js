@@ -12,5 +12,6 @@ const pages = [
 {id:	10	,	name:	"Nervous System Diseases",	url:	"Nervous System Diseases.html"	},
 {id:	11	,	name:	"Reproductive System Diseases",	url:	"Reproductive System Diseases.html"	},
 {id:	12	,	name:	"Respiratory Diseases",	url:	"Respiratory Diseases.html"},
+{id:	13	,	name:	"Others Terms",	url:	"Others Terms.html"},
 
 ];
