@@ -1,6 +1,6 @@
 const pages = [
     
-{id:	1	,	name:	"Agonil Cream",	url:	"Agonil.html"	},
+{id:1,name:"Agonil Cream",url:"Agonil.html"},
 {id:	2	,	name:	"Alleloc",	url:	"Alleloc.html"	},
 {id:	3	,	name:	"Allertin",	url:	"Allertin.html"	},
 {id:	4	,	name:	"Aloglip",	url:	"Aloglip.html"	},
@@ -83,8 +83,6 @@ const pages = [
 {id:	81	,	name:	            "FAQ.html"	url:	            "FAQ",	},
 {id:	82	,	name:	            "Blank.html"	url:	            "Blank",	},
 {id:	82	,	name:	"Blank",	url:	"Blank.html"	},
-
-
-
+    
 ];
 
